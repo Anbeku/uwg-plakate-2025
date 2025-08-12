@@ -2260,6 +2260,356 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.1529533,
+          50.75438499972222
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T19:26:31",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_192631.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1529916,
+          50.75437829972222
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T19:30:43",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_193043.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15448,
+          50.753826599722224
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T19:36:40",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_193639.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1594366,
+          50.7514899
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T19:53:12",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_195312.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1651533,
+          50.74943999972222
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T20:14:44",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_201443.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.163059999722223,
+          50.748573299722224
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T20:25:16",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_202516.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1698233,
+          50.75032159972222
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T20:58:00",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_205800.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1724366,
+          50.7509433
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:03:47",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_210346.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159451599722223,
+          50.747541599722226
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:12:52",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_211252.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.157773000000001,
+          50.74257658333333
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:33:51",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_213348.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14165,
+          50.731518299722225
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:41:20",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_214118.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14238,
+          50.727371599722225
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:46:10",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_214609.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1462833,
+          50.7248333
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:51:52",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_215151.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.145794999722223,
+          50.724204999722225
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T21:56:18",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_215615.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.141609899722223,
+          50.72181989972223
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:14:14",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_221411.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1394399,
+          50.719421599722224
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:20:38",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_222035.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1363583,
+          50.7175499
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:26:02",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_222559.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.132456599999999,
+          50.7160066
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:31:55",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_223153.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.132394999722222,
+          50.716028299722225
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:32:27",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_223224.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129053299722222,
+          50.7144866
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:41:18",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_224117.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.126423299722222,
+          50.7137116
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:45:40",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_224540.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.123971599722222,
+          50.712441599722226
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:52:52",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_225249.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.124588299999999,
+          50.7116799
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T22:59:26",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_225924.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.125948299999999,
+          50.7113066
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T23:03:05",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_230303.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.130208299722222,
+          50.711553299722226
+        ]
+      },
+      "properties": {
+        "datetime": "2025-08-11T23:09:11",
+        "image_url": "https://Anbeku.github.io/uwg-plakate-2025/bilder/20250811_230909.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.109272222222222,
           50.75103333333333
         ]
